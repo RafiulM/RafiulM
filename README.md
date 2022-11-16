@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Ahmad Rafiul Mahdi. Check out my portfolio 👇  
+My name is Ahmad Rafiul Mahdi. 
+Check out my portfolio 👇  
 
 ## [rafiulm.com](https://www.rafiulm.com)
 
