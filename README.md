@@ -2,7 +2,7 @@
 
 My name is Ahmad Rafiul Mahdi. Check out my portfolio 👇  
 
-##[rafiulm.com](https://www.rafiulm.com)
+## [rafiulm.com](https://www.rafiulm.com)
 
 <!--
 **RafiulM/RafiulM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
